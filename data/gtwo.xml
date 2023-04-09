@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://www.nhc.noaa.gov/gtwo.xml" rel="self" type="application/rss+xml" /> <pubDate>Sun, 09 Apr 2023 10:26:32 GMT</pubDate>
+<lastBuildDate>Sun, 09 Apr 2023 10:26:32 GMT</lastBuildDate>
+<title>National Hurricane Center Graphical Tropical Weather Outlooks</title>
+<description>National Hurricane Center Graphical Tropical Weather Outlooks</description>
+<link>https://www.nhc.noaa.gov/</link>
+<copyright>none</copyright>
+<managingEditor>nhcwebmaster@noaa.gov (NHC Webmaster)</managingEditor>
+<language>en-us</language>
+<webMaster>nhcwebmaster@noaa.gov (NHC Webmaster)</webMaster>
+<image>
+<url>https://www.nhc.noaa.gov/images/xml_logo_nhc.gif</url>
+<link>https://www.nhc.noaa.gov/</link>
+<title>National Hurricane Center Graphical Tropical Weather Outlooks</title>
+<description>NOAA logo</description>
+<width>95</width>
+<height>45</height>
+</image>
+<item>
+<title>NHC Atlantic Outlook</title>
+<description>The Atlantic hurricane season runs from June 1st through November 30th.</description>
+<pubDate>Tue, 17 Jan 2023 09:51:06 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=atlc</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>NHC Eastern North Pacific Outlook</title>
+<description>The Eastern North Pacific hurricane season runs from May 15th through November 30th.</description>
+<pubDate>Fri, 02 Dec 2022 16:41:33 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=epac</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=epac</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+<item>
+<title>CPHC Central North Pacific Outlook</title>
+<description>The Central North Pacific hurricane season runs from June 1st through November 30th.</description>
+<pubDate>Fri, 02 Dec 2022 16:42:08 GMT</pubDate>
+<link>https://www.nhc.noaa.gov/gtwo.php?basin=cpac</link>
+<guid>https://www.nhc.noaa.gov/gtwo.php?basin=cpac</guid>
+<author>nhcwebmaster@noaa.gov (NHC Webmaster)</author>
+</item>
+</channel>
+</rss>
