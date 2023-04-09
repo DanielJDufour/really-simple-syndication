@@ -1,6 +1,6 @@
 {
   "name": "really-simple-syndication",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Parse Really Simple Syndication (RSS 2.0)",
   "main": "index.js",
   "files": [
